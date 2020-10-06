@@ -1,11 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my home page!
 
-You can use the [editor on GitHub](https://github.com/memcpy0/memcpy0.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
- 
-
-```markdown
 Syntax highlighted code block
 
 ### 个人信息
@@ -32,5 +26,5 @@ Syntax highlighted code block
 项目描述
 - **项目2**
 项目描述
-```
+
 
